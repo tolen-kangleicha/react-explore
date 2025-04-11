@@ -1,3 +1,3 @@
-## 🔍 Preview
+# Preview
 
 ![Preview](./public/preview.png)
